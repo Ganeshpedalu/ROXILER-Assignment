@@ -1,0 +1,27 @@
+
+.pie-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 50vh; 
+    width: 90vh;
+    margin-left: 20rem;
+    border-radius: 1rem;
+  }
+  
+  
+  .pie-container {
+    background-color: #b7b76a;
+    
+  }
+  
+
+  @media screen and (max-width: 600px) {
+    
+    .pie-container {
+      height: 40vh; 
+      width: 80vh; 
+      margin-left: 0; 
+    }
+  }
+  
