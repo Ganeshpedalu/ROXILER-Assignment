@@ -115,7 +115,7 @@ of items in that range for the selected month regardless of the year )
 ## Solution
 
 this is endpoint 
-http://localhost:4000/bar-chart-data?month=1
+http://localhost:4000/bar-chart-data?month=?
 
 ## Description
 
